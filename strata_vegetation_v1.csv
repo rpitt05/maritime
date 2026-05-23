@@ -1,0 +1,193 @@
+location_id,site,plot,plot_number,strata,species
+1_1,1,1,1,1,muscadine
+1_1,1,1,1,1,poison ivy
+1_1,1,1,1,1,grass
+1_1,1,1,1,1,virginia creeper
+1_1,1,1,1,1,mertyl
+1_1,1,1,1,1,moss
+1_1,1,1,1,1,blueberry
+1_1,1,1,1,2,mertyl
+1_1,1,1,1,2,muscadine
+1_1,1,1,1,2,green brior
+1_1,1,1,1,3,loblolly
+1_2,1,2,2,1,moss
+1_2,1,2,2,1,poison ivy
+1_2,1,2,2,1,blueberry
+1_2,1,2,2,1,muscadine
+1_2,1,2,2,1,virginia creeper
+1_2,1,2,2,1,grass
+1_2,1,2,2,1,water oak
+1_2,1,2,2,2,water oak
+1_2,1,2,2,2,mertyl
+1_2,1,2,2,3,water oak
+1_2,1,2,2,3,loblolly
+1_2,1,2,2,3,green brior
+1_3,1,3,3,1,virginia creeper
+1_3,1,3,3,1,poison ivy
+1_3,1,3,3,1,grass
+1_3,1,3,3,1,muscadine
+1_3,1,3,3,1,thistle
+1_3,1,3,3,1,moss
+1_3,1,3,3,2,virginia creeper
+1_3,1,3,3,2,mertyl
+1_3,1,3,3,3,loblolly
+2_1,2,1,4,1,grass
+2_1,2,1,4,1,poison ivy
+2_1,2,1,4,1,virginia creeper
+2_1,2,1,4,1,green brior
+2_1,2,1,4,1,muscadine
+2_1,2,1,4,2,virginia creeper
+2_1,2,1,4,2,mertyl
+2_1,2,1,4,2,green brior
+2_1,2,1,4,2,poison ivy
+2_1,2,1,4,3,loblolly
+2_1,2,1,4,3,muscadine
+2_2,2,2,5,1,poison ivy
+2_2,2,2,5,1,grass
+2_2,2,2,5,1,loblolly
+2_2,2,2,5,1,moss
+2_2,2,2,5,1,virginia creeper
+2_2,2,2,5,2,poison ivy
+2_2,2,2,5,2,loblolly
+2_2,2,2,5,3,loblolly
+2_3,2,3,6,1,poison ivy
+2_3,2,3,6,1,grass
+2_3,2,3,6,1,muscadine
+2_3,2,3,6,1,loblolly
+2_3,2,3,6,1,mertyl
+2_3,2,3,6,1,virginia creeper
+2_3,2,3,6,1,green brior
+2_3,2,3,6,2,loblolly
+2_3,2,3,6,2,mertyl
+2_3,2,3,6,2,green brior
+2_3,2,3,6,2,muscadine
+2_3,2,3,6,3,loblolly
+3_1,3,1,7,1,poison ivy 
+3_1,3,1,7,1,grass
+3_1,3,1,7,1,virginia creeper
+3_1,3,1,7,1,green brior
+3_1,3,1,7,1,mertyl
+3_1,3,1,7,1,muscadine
+3_1,3,1,7,2,green brior
+3_1,3,1,7,3,loblolly
+3_2,3,2,8,1,muscadine
+3_2,3,2,8,1,virginia creeper
+3_2,3,2,8,1,green brior
+3_2,3,2,8,1,orchid
+3_2,3,2,8,1,grass
+3_2,3,2,8,1,poison ivy
+3_2,3,2,8,2,willow oak
+3_2,3,2,8,2,green brior
+3_2,3,2,8,3,loblolly
+3_2,3,2,8,3,willow oak
+3_3,3,3,9,1,poison ivy
+3_3,3,3,9,1,grass
+3_3,3,3,9,1,green brior
+3_3,3,3,9,1,thistle
+3_3,3,3,9,1,muscadine
+3_3,3,3,9,2,mertyl
+3_3,3,3,9,2,loblolly
+3_3,3,3,9,3,loblolly
+4_1,4,1,10,1,green brior
+4_1,4,1,10,1,grass
+4_1,4,1,10,1,moss
+4_1,4,1,10,1,muscadine
+4_1,4,1,10,1,blueberry
+4_1,4,1,10,1,sweet gum
+4_1,4,1,10,1,holly
+4_1,4,1,10,2,red maple
+4_1,4,1,10,2,green brior
+4_1,4,1,10,3,red maple
+4_1,4,1,10,3,loblolly
+4_2,4,2,11,1,muscadine
+4_2,4,2,11,1,green brior
+4_2,4,2,11,1,grass
+4_2,4,2,11,1,sweet gum
+4_2,4,2,11,1,poison ivy
+4_2,4,2,11,1,sassafras
+4_2,4,2,11,1,holly
+4_2,4,2,11,1,mertyl
+4_2,4,2,11,2,mertyl
+4_2,4,2,11,2,muscadine
+4_2,4,2,11,2,green brior
+4_2,4,2,11,2,sweet gum
+4_2,4,2,11,2,virginia creeper
+4_2,4,2,11,3,loblolly
+4_2,4,2,11,3,muscadine
+4_3,4,3,12,1,green brior
+4_3,4,3,12,1,muscadine
+4_3,4,3,12,1,holly
+4_3,4,3,12,1,grass
+4_3,4,3,12,1,moss
+4_3,4,3,12,1,virginia creeper
+4_3,4,3,12,2,green brior
+4_3,4,3,12,2,muscadine
+4_3,4,3,12,3,loblolly
+4_3,4,3,12,3,red maple
+4_3,4,3,12,3,muscadine
+5_1,5,1,13,1,green brior
+5_1,5,1,13,1,virginia creeper
+5_1,5,1,13,1,sassafras
+5_1,5,1,13,1,summer grape
+5_1,5,1,13,2,water oak
+5_1,5,1,13,2,muscadine
+5_1,5,1,13,2,summer grape
+5_1,5,1,13,2,black cherry
+5_1,5,1,13,3,loblolly
+5_1,5,1,13,3,water oak
+5_1,5,1,13,3,muscadine
+5_1,5,1,13,3,summer grape
+5_2,5,2,14,1,green brior
+5_2,5,2,14,1,sassafras
+5_2,5,2,14,1,muscadine
+5_2,5,2,14,1,grass
+5_2,5,2,14,1,moss
+5_2,5,2,14,1,poison ivy
+5_2,5,2,14,1,loblolly
+5_2,5,2,14,2,muscadine
+5_2,5,2,14,2,green brior
+5_2,5,2,14,2,sassafras
+5_2,5,2,14,2,holly
+5_2,5,2,14,3,loblolly
+5_2,5,2,14,3,holly
+5_2,5,2,14,3,black cherry
+5_2,5,2,14,3,red oak
+5_3,5,3,15,1,green brior
+5_3,5,3,15,1,muscadine
+5_3,5,3,15,1,water oak
+5_3,5,3,15,1,sassafras
+5_3,5,3,15,1,grass
+5_3,5,3,15,2,water oak
+5_3,5,3,15,2,green brior
+5_3,5,3,15,3,water oak
+5_3,5,3,15,3,loblolly
+5_3,5,3,15,3,black cherry
+6_1,6,1,16,1,red oak
+6_1,6,1,16,1,green brior
+6_1,6,1,16,1,grass
+6_1,6,1,16,1,sweet gum
+6_1,6,1,16,1,muscadine
+6_1,6,1,16,1,holly
+6_1,6,1,16,2,red maple
+6_1,6,1,16,2,sweet gum
+6_1,6,1,16,3,red maple
+6_1,6,1,16,3,loblolly
+6_2,6,2,17,1,muscadine
+6_2,6,2,17,1,grass
+6_2,6,2,17,1,green brior
+6_2,6,2,17,1,sassafras
+6_2,6,2,17,1,poison ivy
+6_2,6,2,17,1,holly
+6_2,6,2,17,1,virginia creeper
+6_2,6,2,17,1,moss
+6_2,6,2,17,2,muscadine
+6_2,6,2,17,3,water oak
+6_2,6,2,17,3,loblolly
+6_2,6,2,17,3,muscadine
+6_3,6,3,18,1,green brior
+6_3,6,3,18,1,muscadine
+6_3,6,3,18,1,grass
+6_3,6,3,18,2,muscadine
+6_3,6,3,18,2,green brior
+6_3,6,3,18,3,muscadine
+6_3,6,3,18,3,loblolly
